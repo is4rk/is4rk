@@ -8,6 +8,7 @@ I'm currently enrolled in a bachelor's program for computer engineering at Polit
 I work part-time programming the Polito Students App. I'm looking to get started on robotics and AI.
 # 👨🏼‍💻 Professional Experience
 Politecnico di Torino - Torino - ITALY
+
 Worked contract for six months, through an External collaboration, as a front-end developer on the official student mobile application of Politecnico di Torino, built with React Native. Contributed to UI development, feature implementation, and bug fixing. The project is open source: github.com/polito/students-app
  
 # 💻 Tech Stack:
