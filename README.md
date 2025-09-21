@@ -1,4 +1,4 @@
-# 📚 Education
+#  Education
 ![image](https://github.com/user-attachments/assets/81064b61-1d3b-4b4a-92a3-68ba80ad8b06)
 
 **Computer Engineering**:
@@ -20,5 +20,5 @@ Worked for six months, through an External collaboration, as a front-end develop
 ---
 [![](https://visitcount.itsvg.in/api?id=is4rk&icon=0&color=0)](https://visitcount.itsvg.in)
 
-# 📒 Contacts
-- 📬 isar@kavlie.no
+#  Contacts
+-  isar@kavlie.no
