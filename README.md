@@ -4,8 +4,8 @@
 **Computer Engineering**:
 Passionate about algorithms, robotics, and applied artificial intelligence. I have achieved excellent results in programming exams, demonstrating a strong aptitude for software development.
 I am actively working to improve my performance in more complex theoretical subjects, while simultaneously deepening practical projects, including mobile development and the use of Python in robotics.
-I'm currently enrolled in a bachelor's program for computer engineering at Politecnico di Torino.
-Concurrently I'm doing an intership at INRIM, doing instrument control programming. I'm looking to get started on robotics.
+I'm enrolled in a bachelor's program for computer engineering at Politecnico di Torino.
+Concurrently doing an intership at INRIM, doing instrument control programming. I'm looking to get started on robotics.
 #  Professional Experience
 Politecnico di Torino -  TO, Italy
 
