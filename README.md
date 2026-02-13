@@ -1,5 +1,6 @@
 #  Education
-![image](https://github.com/user-attachments/assets/81064b61-1d3b-4b4a-92a3-68ba80ad8b06)
+<img width="150" height="150" alt="image" src="https://github.com/user-attachments/assets/23e5a2bb-fdca-42ef-bc19-8e9ba4a2d7bd" />
+
 
 **Computer Engineering**:
 Passionate about algorithms, robotics, and applied artificial intelligence. I have achieved excellent results in programming exams, demonstrating a strong aptitude for software development.
